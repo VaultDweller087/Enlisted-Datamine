@@ -1,0 +1,554 @@
+[
+  {
+    "baseFontData": [
+      {
+        "baseFont": "ttfs/trebuc.ttf"
+      },
+      {
+        "forceAutoHint": false
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/symbols_enlisted.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [8756,8824]
+          },
+          {
+            "range": [8902,8945]
+          },
+          {
+            "range": [8962,8962]
+          },
+          {
+            "range": [8966,8966]
+          },
+          {
+            "range": [8968,8971]
+          },
+          {
+            "range": [8992,8995]
+          },
+          {
+            "range": [9216,9228]
+          },
+          {
+            "range": [9230,9252]
+          },
+          {
+            "range": [9472,9476]
+          }
+        ]
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/mplus-2p-regular.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [12352,12543]
+          },
+          {
+            "range": [65072,65103]
+          },
+          {
+            "range": [65280,65519]
+          }
+        ]
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/msyh.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [12288,12351]
+          },
+          {
+            "range": [13312,19903]
+          },
+          {
+            "range": [19968,40895]
+          }
+        ]
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/nanumGothicRegular.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [4352,4607]
+          },
+          {
+            "range": [12592,12687]
+          },
+          {
+            "range": [12800,13055]
+          },
+          {
+            "range": [43360,43391]
+          },
+          {
+            "range": [44032,55295]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "baseFontData": [
+      {
+        "baseFont": "ttfs/trebucbd.ttf"
+      },
+      {
+        "forceAutoHint": false
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/symbols_enlisted.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [8756,8824]
+          },
+          {
+            "range": [8902,8945]
+          },
+          {
+            "range": [8962,8962]
+          },
+          {
+            "range": [8966,8966]
+          },
+          {
+            "range": [8968,8971]
+          },
+          {
+            "range": [8992,8995]
+          },
+          {
+            "range": [9216,9228]
+          },
+          {
+            "range": [9230,9252]
+          },
+          {
+            "range": [9472,9476]
+          }
+        ]
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/mplus-2p-regular.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [12352,12543]
+          },
+          {
+            "range": [65072,65103]
+          },
+          {
+            "range": [65280,65519]
+          }
+        ]
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/msyh.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [12288,12351]
+          },
+          {
+            "range": [13312,19903]
+          },
+          {
+            "range": [19968,40895]
+          }
+        ]
+      },
+      {
+        "addFont": [
+          {
+            "addFont": "ttfs/nanumGothicRegular.ttf"
+          },
+          {
+            "htScale": 1.0
+          },
+          {
+            "range": [4352,4607]
+          },
+          {
+            "range": [12592,12687]
+          },
+          {
+            "range": [12800,13055]
+          },
+          {
+            "range": [43360,43391]
+          },
+          {
+            "range": [44032,55295]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "baseFontData": {
+      "baseFont": "ttfs/fontawesome-webfont.ttf",
+      "forceAutoHint": false
+    }
+  },
+  {
+    "baseFontData": {
+      "baseFont": "ttfs/tactical_enlisted.ttf",
+      "forceAutoHint": false
+    }
+  },
+  {
+    "baseFontData": {
+      "baseFont": "ttfs/jetbrains-mono-nl-regular.ttf"
+    }
+  },
+  {
+    "font": {
+      "name": "trebuchet",
+      "baseFontData": 0
+    }
+  },
+  {
+    "font": {
+      "name": "trebuchet_bold",
+      "baseFontData": 1
+    }
+  },
+  {
+    "font": {
+      "name": "fontawesome",
+      "baseFontData": 2
+    }
+  },
+  {
+    "font": {
+      "name": "tactical",
+      "baseFontData": 3
+    }
+  },
+  {
+    "font": {
+      "name": "mono",
+      "baseFontData": 4
+    }
+  },
+  {
+    "hRes.480": {
+      "trebuchet": {
+        "ht": 7
+      },
+      "trebuchet_bold": {
+        "ht": 7
+      },
+      "fontawesome": {
+        "ht": 9
+      },
+      "tactical": {
+        "ht": 9
+      },
+      "mono": {
+        "ht": 6
+      }
+    }
+  },
+  {
+    "hRes.600": {
+      "trebuchet": {
+        "ht": 9
+      },
+      "trebuchet_bold": {
+        "ht": 9
+      },
+      "fontawesome": {
+        "ht": 12
+      },
+      "tactical": {
+        "ht": 12
+      },
+      "mono": {
+        "ht": 8
+      }
+    }
+  },
+  {
+    "hRes.720": {
+      "trebuchet": {
+        "ht": 11
+      },
+      "trebuchet_bold": {
+        "ht": 11
+      },
+      "fontawesome": {
+        "ht": 14
+      },
+      "tactical": {
+        "ht": 14
+      },
+      "mono": {
+        "ht": 9
+      }
+    }
+  },
+  {
+    "hRes.768": {
+      "trebuchet": {
+        "ht": 11
+      },
+      "trebuchet_bold": {
+        "ht": 11
+      },
+      "fontawesome": {
+        "ht": 15
+      },
+      "tactical": {
+        "ht": 15
+      },
+      "mono": {
+        "ht": 10
+      }
+    }
+  },
+  {
+    "hRes.800": {
+      "trebuchet": {
+        "ht": 12
+      },
+      "trebuchet_bold": {
+        "ht": 12
+      },
+      "fontawesome": {
+        "ht": 16
+      },
+      "tactical": {
+        "ht": 16
+      },
+      "mono": {
+        "ht": 10
+      }
+    }
+  },
+  {
+    "hRes.864": {
+      "trebuchet": {
+        "ht": 13
+      },
+      "trebuchet_bold": {
+        "ht": 13
+      },
+      "fontawesome": {
+        "ht": 17
+      },
+      "tactical": {
+        "ht": 17
+      },
+      "mono": {
+        "ht": 11
+      }
+    }
+  },
+  {
+    "hRes.900": {
+      "trebuchet": {
+        "ht": 13
+      },
+      "trebuchet_bold": {
+        "ht": 13
+      },
+      "fontawesome": {
+        "ht": 17
+      },
+      "tactical": {
+        "ht": 17
+      },
+      "mono": {
+        "ht": 11
+      }
+    }
+  },
+  {
+    "hRes.960": {
+      "trebuchet": {
+        "ht": 14
+      },
+      "trebuchet_bold": {
+        "ht": 14
+      },
+      "fontawesome": {
+        "ht": 19
+      },
+      "tactical": {
+        "ht": 19
+      },
+      "mono": {
+        "ht": 12
+      }
+    }
+  },
+  {
+    "hRes.1024": {
+      "trebuchet": {
+        "ht": 15
+      },
+      "trebuchet_bold": {
+        "ht": 15
+      },
+      "fontawesome": {
+        "ht": 20
+      },
+      "tactical": {
+        "ht": 20
+      },
+      "mono": {
+        "ht": 13
+      }
+    }
+  },
+  {
+    "hRes.1050": {
+      "trebuchet": {
+        "ht": 16
+      },
+      "trebuchet_bold": {
+        "ht": 16
+      },
+      "fontawesome": {
+        "ht": 20
+      },
+      "tactical": {
+        "ht": 20
+      },
+      "mono": {
+        "ht": 13
+      }
+    }
+  },
+  {
+    "hRes.1080": {
+      "trebuchet": {
+        "ht": 16
+      },
+      "trebuchet_bold": {
+        "ht": 16
+      },
+      "fontawesome": {
+        "ht": 21
+      },
+      "tactical": {
+        "ht": 21
+      },
+      "mono": {
+        "ht": 14
+      }
+    }
+  },
+  {
+    "hRes.1200": {
+      "trebuchet": {
+        "ht": 18
+      },
+      "trebuchet_bold": {
+        "ht": 18
+      },
+      "fontawesome": {
+        "ht": 23
+      },
+      "tactical": {
+        "ht": 23
+      },
+      "mono": {
+        "ht": 15
+      }
+    }
+  },
+  {
+    "hRes.1440": {
+      "trebuchet": {
+        "ht": 21
+      },
+      "trebuchet_bold": {
+        "ht": 21
+      },
+      "fontawesome": {
+        "ht": 28
+      },
+      "tactical": {
+        "ht": 28
+      },
+      "mono": {
+        "ht": 18
+      }
+    }
+  },
+  {
+    "hRes.1800": {
+      "trebuchet": {
+        "ht": 27
+      },
+      "trebuchet_bold": {
+        "ht": 27
+      },
+      "fontawesome": {
+        "ht": 35
+      },
+      "tactical": {
+        "ht": 35
+      },
+      "mono": {
+        "ht": 23
+      }
+    }
+  },
+  {
+    "hRes.2160": {
+      "trebuchet": {
+        "ht": 32
+      },
+      "trebuchet_bold": {
+        "ht": 32
+      },
+      "fontawesome": {
+        "ht": 42
+      },
+      "tactical": {
+        "ht": 42
+      },
+      "mono": {
+        "ht": 27
+      }
+    }
+  }
+]

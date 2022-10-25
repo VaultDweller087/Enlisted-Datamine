@@ -1,0 +1,14 @@
+{
+  "fontSizeByWidthCap": 0.75,
+  "refHRes": 1080,
+  "inscriptionsTexSz": [1024,512],
+  "genSysTexSz": [1024,256],
+  "fontbins": {
+    "name": "ui/fonts"
+  },
+  "dynamicGen": {
+    "texCount": 2,
+    "texSz": 2048,
+    "prefix": "ui"
+  }
+}
