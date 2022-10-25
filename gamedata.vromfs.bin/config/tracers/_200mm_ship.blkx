@@ -1,7 +1,9 @@
-halfSize:r=18.0
-distScaleStart:r=1000.0
-distScaleEnd:r=15000.0
-distScale:r=0.26
-radius:r=0.17
-hdrK:r=2.2
-minPixelSize:r=3.1
+{
+  "halfSize": 18.0,
+  "distScaleStart": 1000.0,
+  "distScaleEnd": 15000.0,
+  "distScale": 0.26,
+  "radius": 0.17,
+  "hdrK": 2.2,
+  "minPixelSize": 3.1
+}

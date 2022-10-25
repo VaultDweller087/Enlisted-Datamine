@@ -1,5 +1,7 @@
-halfSize:r=4.0
-distScaleStart:r=20.0
-distScaleEnd:r=4000.0
-distScale:r=2.0
-radius:r=0.12
+{
+  "halfSize": 4.0,
+  "distScaleStart": 20.0,
+  "distScaleEnd": 4000.0,
+  "distScale": 2.0,
+  "radius": 0.12
+}

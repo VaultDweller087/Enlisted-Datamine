@@ -1,2 +1,4 @@
-color1:c=255, 255, 255, 40
-color2:c=213, 237, 255, 80
+{
+  "color1": "#ffffff28",
+  "color2": "#d5edff50"
+}
