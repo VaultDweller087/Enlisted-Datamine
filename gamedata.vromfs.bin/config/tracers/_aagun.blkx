@@ -1,6 +1,4 @@
-{
-  "halfSize": 3.0,
-  "distScaleStart": 100.0,
-  "distScaleEnd": 4000.0,
-  "distScale": 5.0
-}
+halfSize:r=3.0
+distScaleStart:r=100.0
+distScaleEnd:r=4000.0
+distScale:r=5.0

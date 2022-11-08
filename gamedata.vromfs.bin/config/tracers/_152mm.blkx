@@ -1,7 +1,5 @@
-{
-  "halfSize": 5.0,
-  "distScaleStart": 1000.0,
-  "distScaleEnd": 7000.0,
-  "distScale": 4.0,
-  "radius": 0.17
-}
+halfSize:r=5.0
+distScaleStart:r=1000.0
+distScaleEnd:r=7000.0
+distScale:r=4.0
+radius:r=0.17
