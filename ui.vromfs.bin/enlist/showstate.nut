@@ -4,7 +4,7 @@ from "%enlSqGlob/ui_library.nut" import *
 let { curCamera } = require("%enlist/sceneWithCamera.nut")
 let { curSoldierGuid } = require("%enlist/soldiers/model/squadInfoState.nut")
 let { curVehicle, objInfoByGuid } = require("%enlist/soldiers/model/state.nut")
-let { viewVehicle } = require("%enlist/vehicles/vehiclesListState.nut")
+let { viewVehicle, selectVehParams } = require("%enlist/vehicles/vehiclesListState.nut")
 let { viewItem } = require("%enlist/soldiers/model/selectItemState.nut")
 let {
   isCustomizationWndOpened
@@ -16,6 +16,11 @@ let { getVehSkins } = require("%enlSqGlob/vehDecorUtils.nut")
 let curHoveredItem = mkWatched(persist, "curHoveredItem")
 let curHoveredSoldier = mkWatched(persist,"curHoveredSoldier")
 let curSelectedItem = mkWatched(persist,"curSelectedItem")
+
+let isVehicleSceneVisible = Computed(function() {
+  let { armyId = null, squadId = null } = selectVehParams.value
+  return armyId != null && squadId != null
+})
 
 let itemInArmory = Computed(function() {
   let item = viewItem.value ?? curSelectedItem.value
@@ -87,4 +92,6 @@ return {
   itemInArmory
   soldierInSoldiers
   scene
+  vehicleInVehiclesScene
+  isVehicleSceneVisible
 }
