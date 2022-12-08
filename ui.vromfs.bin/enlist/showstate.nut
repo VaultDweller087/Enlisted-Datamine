@@ -32,10 +32,10 @@ let currentNewSoldierGuid = Computed(@() curSelectedItem.value?.itemtype == "sol
 
 let soldierInSoldiers = Computed(@() curCamera.value == "new_items" ? currentNewSoldierGuid.value : curSoldierGuid.value)
 
-let vehicleInVehiclesScene = Computed(@() curSelectedItem.value
+let vehicleInVehiclesScene = Computed(@()
+  (curSelectedItem.value?.itemtype == "vehicle" ? curSelectedItem.value : null)
   ?? viewVehicle.value
-  ?? objInfoByGuid.value?[curVehicle.value]
-)
+  ?? objInfoByGuid.value?[curVehicle.value])
 
 let vehTplInVehiclesScene = Computed(@() vehicleInVehiclesScene.value?.gametemplate)
 
