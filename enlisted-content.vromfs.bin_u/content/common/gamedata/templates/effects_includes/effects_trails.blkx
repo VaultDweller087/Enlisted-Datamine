@@ -7,6 +7,9 @@ trails_effect_base{
     effect{
     }
   }
+
+  "staticEffect:tag"{
+  }
 }
 
 trail_rocket_dark_effect{

@@ -68,6 +68,16 @@ stalingrad_ambient_sound{
   }
 }
 
+stalingrad_plant_ambient_sound{
+  _extends:t="ambient_sound"
+  _singleton:b=yes
+
+  _group{
+    _tags:t="sound"
+    ambient_sound__path:t="ambient/plant_base"
+  }
+}
+
 tropics_ambient_sound{
   _extends:t="ambient_sound"
   _singleton:b=yes
@@ -78,6 +88,16 @@ tropics_ambient_sound{
   }
 }
 
+menu_ambient_sound{
+  _extends:t="ambient_sound"
+  _singleton:b=yes
+
+  _group{
+    _tags:t="sound"
+    ambient_sound__path:t="ambient/enl_menu_01"
+  }
+}
+
 music_launcher_ambient_sound{
   _extends:t="ambient_sound"
   _singleton:b=yes
@@ -85,5 +105,25 @@ music_launcher_ambient_sound{
   _group{
     _tags:t="sound"
     ambient_sound__path:t="music/launcher"
+  }
+}
+
+ny_menu_ambient_sound{
+  _extends:t="ambient_sound"
+  _singleton:b=yes
+
+  _group{
+    _tags:t="sound"
+    ambient_sound__path:t="ambient/enl_menu_ny"
+  }
+}
+
+ny_music_launcher_ambient_sound{
+  _extends:t="ambient_sound"
+  _singleton:b=yes
+
+  _group{
+    _tags:t="sound"
+    ambient_sound__path:t="music/launcher_ny"
   }
 }

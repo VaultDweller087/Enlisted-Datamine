@@ -4,7 +4,6 @@ muzzle_ground_8mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_6_8mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=0.3
   }
@@ -16,7 +15,6 @@ muzzle_ground_15mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_8_14mm_rapid_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=0.7
   }
@@ -28,7 +26,6 @@ muzzle_ground_20mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_14_20mm_rapid_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=0.85
   }
@@ -40,7 +37,6 @@ muzzle_ground_40mm_slow{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_20_60mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
   }
 }
@@ -51,7 +47,6 @@ muzzle_ground_60mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_60_100mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
   }
 }
@@ -62,7 +57,6 @@ muzzle_ground_60mm_brake{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_60_100mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
   }
 }
@@ -73,7 +67,6 @@ muzzle_ground_80mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_60_100mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=1.4
   }
@@ -85,7 +78,6 @@ muzzle_ground_80mm_brake{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_60_100mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=1.4
   }
@@ -97,7 +89,6 @@ muzzle_ground_100mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_100_150mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
   }
 }
@@ -108,7 +99,6 @@ muzzle_ground_100mm_brake{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_100_150mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
   }
 }
@@ -119,7 +109,6 @@ muzzle_ground_100mm_recoilless{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_100_150mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
   }
 }
@@ -130,7 +119,6 @@ muzzle_ground_125mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_100_150mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=1.4
   }
@@ -142,7 +130,6 @@ muzzle_ground_125mm_brake{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_100_150mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=1.4
   }
@@ -154,7 +141,6 @@ muzzle_ground_150mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_100_150mm_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=1.7
   }
@@ -178,7 +164,6 @@ muzzle_air_30mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_14_20mm_rapid_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=1.4
   }
@@ -190,7 +175,6 @@ muzzle_air_50mm{
   _group{
     _tags:t="render"
     effect__name:t="fire_muzzle_14_20mm_rapid_cmps_fx"
-    gun_flash_fx__timeToDestroy:r=0.3
     effect__distance_scale:r=1.0
     gun_flash_fx__scaleMultiplier:r=1.55
   }
