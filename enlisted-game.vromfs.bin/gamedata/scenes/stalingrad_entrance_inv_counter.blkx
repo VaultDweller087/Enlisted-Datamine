@@ -3052,7 +3052,7 @@ entity{
   ui_order:i=2
   capzone__capReward:r=250.0
   capzone__icon:t="AAA"
-  capzone__caption:t="capzone/foundry"
+  capzone__caption:t="capzone/smeltery"
   capzone__deactivateAfterTimeout:r=25.0
   capzone__spawnAtZoneTimeout:r=25.0
   capzone__createRespawnBaseForTeam:i=1
@@ -3111,7 +3111,7 @@ entity{
   ui_order:i=2
   capzone__capReward:r=250.0
   capzone__icon:t="AAA"
-  capzone__caption:t="capzone/smeltery"
+  capzone__caption:t="capzone/quenching"
   capzone__deactivateAfterTimeout:r=25.0
   capzone__spawnAtZoneTimeout:r=25.0
   capzone__createRespawnBaseForTeam:i=1

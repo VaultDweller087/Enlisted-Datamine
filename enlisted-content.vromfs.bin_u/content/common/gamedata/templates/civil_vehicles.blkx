@@ -156,6 +156,8 @@ base_vehicle{
   battle_area__timeToDamageType:t="vehicle"
   net__controlsTickDelta:i=0
   phys__maxMassRatioForPushOnCollision:r=4.0
+  last_offender__shellId:i=-1
+  last_offender__gunPropsId:i=-1
   collision_damage__canBeOffender:b=yes
 
   "net_phys__interpK:r"{

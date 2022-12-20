@@ -12,9 +12,13 @@ require EnlistedWeaponRender
 require Dacoll
 require enlisted.events_enlisted
 require EnlistedPhysObj
+require strings
 
 def private spawn_effect_aux(pos : float3;
                              fx_name : string)
+  if empty(fx_name)
+    return false
+
   var tm = IDENT_TM
   tm[3] = pos
 

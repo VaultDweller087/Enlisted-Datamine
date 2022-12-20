@@ -246,7 +246,8 @@ def is_not_attachable_gun(gun_eid : EntityId; transform : float3x4;
     let to = transform * (*obj |> get_Point3("to") ?? float3())
     var norm : float3
     var t = length(from - to)
-    if traceray_normalized(from, to - from, t, norm)
+    let dir = normalize(to - from)
+    if traceray_normalized(from, dir, t, norm)
       return true
   return false
 

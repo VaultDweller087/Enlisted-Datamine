@@ -3261,7 +3261,7 @@ entity{
   capzone__decapTime:r=6000.0
   ui_order:i=4
   capzone__icon:t="AAA"
-  capzone__caption:t="capzone/foundry"
+  capzone__caption:t="capzone/smeltery"
   capzone__deactivateAfterTimeout:r=25.0
   decal__thickness:r=0.4
   decal__height:r=0.9
@@ -3326,7 +3326,7 @@ entity{
   capzone__decapTime:r=6000.0
   ui_order:i=4
   capzone__icon:t="AAA"
-  capzone__caption:t="capzone/smeltery"
+  capzone__caption:t="capzone/quenching"
   capzone__deactivateAfterTimeout:r=25.0
   decal__thickness:r=0.4
   decal__height:r=1.3
