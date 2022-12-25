@@ -1,0 +1,32 @@
+gameResPacks{
+  pack:t="mods_buildings.grp"
+  pack:t="mods_collision_pack.grp"
+  pack:t="mods_fortifications.grp"
+  pack:t="mods_russia_idols.grp"
+  pack:t="mods_terrain_decorations.grp"
+  pack:t="mods_vehicles_ri.grp"
+  pack:t="mods_weaponry_ri.grp"
+}
+
+ddsxTexPacks{
+  pack:t="mods_buildings.dxp.bin"
+  pack:t="mods_fortifications.dxp.bin"
+  pack:t="mods_russia_idols.dxp.bin"
+  pack:t="mods_terrain_decorations.dxp.bin"
+  pack:t="mods_vehicles_ri.dxp.bin"
+}
+
+hash_md5{
+  mods_buildings.dxp.bin:t="1959ee90a860944239ece61b4b092668"
+  mods_buildings.grp:t="cf2044f5b6d6ba9a3ee1a8f80c8d9bb6"
+  mods_collision_pack.grp:t="ff6566923be0d97566d0d909b930e88a"
+  mods_fortifications.dxp.bin:t="6d1f66e95d0a7a1f5265f60579b136c0"
+  mods_fortifications.grp:t="b8e222c350d1718e97b64b7582538171"
+  mods_russia_idols.dxp.bin:t="23bf63e94d15b4026b4fd008082fe097"
+  mods_russia_idols.grp:t="c3804f4f816597a312da6900e47dcee7"
+  mods_terrain_decorations.dxp.bin:t="df520a77323f300e1e848ce3781f00f6"
+  mods_terrain_decorations.grp:t="e65bcdaf977c740138321e5844a674b1"
+  mods_vehicles_ri.dxp.bin:t="deafcc0a2f0aaa034797285336009d90"
+  mods_vehicles_ri.grp:t="8e2d76c5a7884df5ca1e1f4dd2c95d1a"
+  mods_weaponry_ri.grp:t="a90656d525180d678966db8f422ae827"
+}
