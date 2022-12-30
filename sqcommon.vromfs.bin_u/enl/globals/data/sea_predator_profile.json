@@ -57,11 +57,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -89,6 +84,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -164,23 +164,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -4670,11 +4670,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -4702,6 +4697,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -4777,23 +4777,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -9247,11 +9247,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -9279,6 +9274,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -9351,23 +9351,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -14669,11 +14669,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -14701,6 +14696,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -14773,23 +14773,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -19982,11 +19982,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -20014,6 +20009,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -20086,23 +20086,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -28112,11 +28112,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -28144,6 +28139,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -28219,23 +28219,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -36532,11 +36532,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.2000000029802322,
             "guid" : "pacific_OBT_boost_small_13991363"
          },
@@ -36574,6 +36569,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -36649,23 +36649,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -36726,14 +36726,14 @@
       },
       "isArmyProgressLocked" : false,
       "isFakeSquads" : false,
-      "level" : 26,
+      "level" : 27,
       "premiumExpMul" : 2.0,
       "squads" : [
          {
             "artilleryCooldownMul" : 1.0,
             "artilleryTypeUnlocks" : [],
             "curVehicle" : null,
-            "engineerUnlocks" : [ 3, 2 ],
+            "engineerUnlocks" : [ 3, 2, 1 ],
             "exp" : 7035,
             "expBonus" : 1.0,
             "isRented" : false,
@@ -39607,6 +39607,10 @@
                         "gametemplate" : "usa_gen_head_05",
                         "slot" : "face"
                      },
+                     "front_belt_r" : {
+                        "gametemplate" : "attachable_wear_us_2pouch_grenade_pouch_r_m43_jacket_item",
+                        "slot" : "front_belt_r"
+                     },
                      "gloves" : {
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
                         "slot" : "gloves"
@@ -39643,7 +39647,7 @@
                      {
                         "gunSlots" : {},
                         "numReserveAmmo" : 6,
-                        "reserveAmmoTemplate" : "m6a1_bazooka_item"
+                        "reserveAmmoTemplate" : "m6a3_bazooka_item"
                      },
                      {
                         "gunSlots" : {},
@@ -39674,13 +39678,16 @@
                      "grenade" : "grenade_thrower",
                      "melee" : "usa_knife_weapon",
                      "primary" : "m1_garand_gun",
-                     "secondary" : "m1_bazooka_gun",
+                     "secondary" : "m9_bazooka_gun",
                      "tertiary" : ""
                   },
                   "id" : 0,
                   "inventory" : [
                      {
                         "gametemplate" : "medkit_item"
+                     },
+                     {
+                        "gametemplate" : "explosion_pack_item"
                      },
                      {
                         "gametemplate" : "explosion_pack_item"
@@ -39769,6 +39776,10 @@
                         "gametemplate" : "usa_gen_head_08",
                         "slot" : "face"
                      },
+                     "front_belt_r" : {
+                        "gametemplate" : "attachable_wear_us_2pouch_grenade_pouch_r_m43_jacket_item",
+                        "slot" : "front_belt_r"
+                     },
                      "gloves" : {
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
                         "slot" : "gloves"
@@ -39804,8 +39815,8 @@
                      },
                      {
                         "gunSlots" : {},
-                        "numReserveAmmo" : 3,
-                        "reserveAmmoTemplate" : "atr_boys_magazine"
+                        "numReserveAmmo" : 6,
+                        "reserveAmmoTemplate" : "m6a1_bazooka_item"
                      },
                      {
                         "gunSlots" : {},
@@ -39827,13 +39838,7 @@
                      {
                         "gun_spread__maxDeltaAngle" : -15.0
                      },
-                     {
-                        "gun__kineticDamageMult" : 15.0,
-                        "gun__recoilAmount" : -20.0,
-                        "gun__reloadTime" : -15.0,
-                        "gun__shotFreq" : 15.0,
-                        "gun_spread__maxDeltaAngle" : -15.0
-                     },
+                     {},
                      {},
                      {},
                      {}
@@ -39842,13 +39847,16 @@
                      "grenade" : "grenade_thrower",
                      "melee" : "usa_knife_weapon",
                      "primary" : "m1_garand_gun",
-                     "secondary" : "atr_boys_gun",
+                     "secondary" : "m1_bazooka_gun",
                      "tertiary" : ""
                   },
                   "id" : 1,
                   "inventory" : [
                      {
                         "gametemplate" : "medkit_item"
+                     },
+                     {
+                        "gametemplate" : "explosion_pack_item"
                      },
                      {
                         "gametemplate" : "explosion_pack_item"
@@ -39940,6 +39948,10 @@
                      "face" : {
                         "gametemplate" : "usa_gen_head_09",
                         "slot" : "face"
+                     },
+                     "front_belt_r" : {
+                        "gametemplate" : "attachable_wear_us_2pouch_grenade_pouch_r_m43_jacket_item",
+                        "slot" : "front_belt_r"
                      },
                      "gloves" : {
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
@@ -41843,8 +41855,9 @@
                   ],
                   "human_weap__weapInitialComponents" : [
                      {
+                        "gun__kineticDamageMult" : 15.0,
                         "gun__shotFreq" : 15.0,
-                        "gun_spread__maxDeltaAngle" : -15.0
+                        "gun_spread__maxDeltaAngle" : -35.0
                      },
                      {},
                      {},
@@ -42007,8 +42020,9 @@
                   ],
                   "human_weap__weapInitialComponents" : [
                      {
+                        "gun__kineticDamageMult" : 15.0,
                         "gun__shotFreq" : 15.0,
-                        "gun_spread__maxDeltaAngle" : -15.0
+                        "gun_spread__maxDeltaAngle" : -35.0
                      },
                      {},
                      {},
@@ -43088,11 +43102,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.2000000029802322,
             "guid" : "pacific_OBT_boost_small_13991363"
          },
@@ -43133,6 +43142,11 @@
          },
          {
             "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
+         },
+         {
+            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_battlepass_50_battle_12_13991369"
          }
@@ -43154,7 +43168,7 @@
          "tanker_1_premium_1" : 1.0
       },
       "country" : "japan",
-      "curSquadId" : "axis_pacific_sniper_1",
+      "curSquadId" : "axis_pacific_radioman_1",
       "decorators" : {
          "portrait" : "tunisia_allies_event_marathon_summer_2022"
       },
@@ -43204,23 +43218,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -43281,7 +43295,7 @@
       },
       "isArmyProgressLocked" : false,
       "isFakeSquads" : false,
-      "level" : 26,
+      "level" : 27,
       "premiumExpMul" : 2.0,
       "squads" : [
          {
@@ -46326,6 +46340,10 @@
                         "gametemplate" : "attachable_wear_jap_type99_pouch_l_t98_tunic_item",
                         "slot" : "front_belt_l"
                      },
+                     "front_belt_r" : {
+                        "gametemplate" : "attachable_wear_jap_type96_99_mg60_ammo_pouch_r_t98_tunic_item",
+                        "slot" : "front_belt_r"
+                     },
                      "gloves" : {
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
                         "slot" : "gloves"
@@ -46366,7 +46384,7 @@
                      {
                         "gunSlots" : {},
                         "numReserveAmmo" : 6,
-                        "reserveAmmoTemplate" : "type_5_rocket_item"
+                        "reserveAmmoTemplate" : "type_4_at_7cm_item"
                      },
                      {
                         "gunSlots" : {},
@@ -46400,13 +46418,16 @@
                      "grenade" : "grenade_thrower",
                      "melee" : "jap_knife_weapon",
                      "primary" : "zh_29_jp_gun",
-                     "secondary" : "type_5_45_at_rocket_launcher_gun",
+                     "secondary" : "type_4_70_at_rocket_launcher_gun",
                      "tertiary" : ""
                   },
                   "id" : 0,
                   "inventory" : [
                      {
                         "gametemplate" : "jap_medkit_item"
+                     },
+                     {
+                        "gametemplate" : "explosion_pack_item"
                      },
                      {
                         "gametemplate" : "explosion_pack_item"
@@ -46503,6 +46524,10 @@
                         "gametemplate" : "attachable_wear_jap_type99_pouch_l_t98_tunic_item",
                         "slot" : "front_belt_l"
                      },
+                     "front_belt_r" : {
+                        "gametemplate" : "attachable_wear_jap_type96_99_mg60_ammo_pouch_r_t98_tunic_item",
+                        "slot" : "front_belt_r"
+                     },
                      "gloves" : {
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
                         "slot" : "gloves"
@@ -46546,8 +46571,8 @@
                      },
                      {
                         "gunSlots" : {},
-                        "numReserveAmmo" : 3,
-                        "reserveAmmoTemplate" : "type_97_antitank_canon_magazine"
+                        "numReserveAmmo" : 6,
+                        "reserveAmmoTemplate" : "type_4_at_7cm_item"
                      },
                      {
                         "gunSlots" : {},
@@ -46572,13 +46597,7 @@
                         "gun__shotFreq" : 10.0,
                         "gun_spread__maxDeltaAngle" : -30.0
                      },
-                     {
-                        "gun__kineticDamageMult" : 15.0,
-                        "gun__recoilAmount" : -20.0,
-                        "gun__reloadTime" : -15.0,
-                        "gun__shotFreq" : 15.0,
-                        "gun_spread__maxDeltaAngle" : -15.0
-                     },
+                     {},
                      {},
                      {},
                      {}
@@ -46587,13 +46606,16 @@
                      "grenade" : "grenade_thrower",
                      "melee" : "jap_knife_weapon",
                      "primary" : "zh_29_jp_gun",
-                     "secondary" : "type_97_antitank_canon_scaled_gun",
+                     "secondary" : "type_4_70_at_rocket_launcher_gun",
                      "tertiary" : ""
                   },
                   "id" : 1,
                   "inventory" : [
                      {
                         "gametemplate" : "jap_medkit_item"
+                     },
+                     {
+                        "gametemplate" : "explosion_pack_item"
                      },
                      {
                         "gametemplate" : "explosion_pack_item"
@@ -46690,6 +46712,10 @@
                         "gametemplate" : "attachable_wear_jap_type99_pouch_l_t98_tunic_item",
                         "slot" : "front_belt_l"
                      },
+                     "front_belt_r" : {
+                        "gametemplate" : "attachable_wear_jap_type96_99_mg60_ammo_pouch_r_t98_tunic_item",
+                        "slot" : "front_belt_r"
+                     },
                      "gloves" : {
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
                         "slot" : "gloves"
@@ -46781,6 +46807,9 @@
                   "inventory" : [
                      {
                         "gametemplate" : "jap_medkit_item"
+                     },
+                     {
+                        "gametemplate" : "explosion_pack_item"
                      },
                      {
                         "gametemplate" : "explosion_pack_item"
@@ -47375,18 +47404,14 @@
             "level" : 29,
             "squad" : [
                {
-                  "appearance__rndSeed" : 31780,
-                  "availPerks" : 4,
+                  "appearance__rndSeed" : 13648,
+                  "availPerks" : 0,
                   "bodyScale" : {
-                     "height" : 0.9481694698333740,
-                     "width" : 1.008478283882141
+                     "height" : 0.9674986600875854,
+                     "width" : 0.9758235216140747
                   },
                   "callname" : "",
                   "equipment" : {
-                     "backpack" : {
-                        "gametemplate" : "attachable_wear_jap_radio_device_engineer_squad_item",
-                        "slot" : "backpack"
-                     },
                      "belt_1" : {
                         "gametemplate" : "attachable_wear_jap_wire_cutters_engineer_squad_item",
                         "slot" : "belt_1"
@@ -47403,9 +47428,17 @@
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
                         "slot" : "gloves"
                      },
+                     "hair" : {
+                        "gametemplate" : "hair_02_ger_summer_item",
+                        "slot" : "hair"
+                     },
                      "pants" : {
                         "gametemplate" : "attachable_wear_jap_type98_trousers_w_boots_medic_squad_item",
                         "slot" : "pants"
+                     },
+                     "radio" : {
+                        "gametemplate" : "type_94_6_radio_gun",
+                        "slot" : "radio"
                      },
                      "side_belt_r" : {
                         "gametemplate" : "attachable_wear_jap_type14_nambu_holster_t98_tunic_item",
@@ -47422,7 +47455,7 @@
                   },
                   "exp" : 0,
                   "gametemplate" : "jap_base_soldier",
-                  "guid" : "axis_pacific_soldier_radioman_12623540",
+                  "guid" : "axis_pacific_soldier_radioman_14002325",
                   "heroTpl" : "",
                   "human_weap__weapInfo" : [
                      {
@@ -47482,13 +47515,13 @@
                      }
                   ],
                   "isPremium" : false,
-                  "level" : 5,
-                  "maxLevel" : 5,
-                  "name" : "Akira",
+                  "level" : 1,
+                  "maxLevel" : 4,
+                  "name" : "Kuro",
                   "perkPoints" : {
-                     "speed" : 15,
-                     "vitality" : 10,
-                     "weapon" : 8
+                     "speed" : 13,
+                     "vitality" : 8,
+                     "weapon" : 6
                   },
                   "perks" : [
                      {
@@ -47499,68 +47532,24 @@
                               "statValue" : 0.1749999970197678
                            }
                         ]
-                     },
-                     {
-                        "name" : "stamina_regeneration",
-                        "stats" : [
-                           {
-                              "statKey" : "stamina_regeneration",
-                              "statValue" : 1.0
-                           }
-                        ]
-                     },
-                     {
-                        "name" : "less_camera_shake_on_explosions",
-                        "stats" : [
-                           {
-                              "statKey" : "less_concussion_time",
-                              "statValue" : 0.250
-                           },
-                           {
-                              "statKey" : "less_camera_shake_on_explosions",
-                              "statValue" : 0.50
-                           }
-                        ]
-                     },
-                     {
-                        "name" : "faster_aim_speed",
-                        "stats" : [
-                           {
-                              "statKey" : "faster_aim_speed",
-                              "statValue" : 0.2000000029802322
-                           }
-                        ]
-                     },
-                     {
-                        "name" : "faster_self_fire_putout",
-                        "stats" : [
-                           {
-                              "statKey" : "faster_self_fire_putout",
-                              "statValue" : 1.0
-                           }
-                        ]
                      }
                   ],
-                  "perksCount" : 5,
+                  "perksCount" : 1,
                   "sClass" : "radioman",
                   "sKind" : "radioman",
-                  "surname" : "Sugawara",
-                  "tier" : 4,
+                  "surname" : "Ando",
+                  "tier" : 3,
                   "weaponPreset" : ""
                },
                {
-                  "appearance__rndSeed" : 4358,
+                  "appearance__rndSeed" : 6285,
                   "availPerks" : 0,
                   "bodyScale" : {
-                     "height" : 0.9417557120323181,
-                     "width" : 0.9920813441276550
+                     "height" : 0.9591073393821716,
+                     "width" : 0.9808554053306580
                   },
                   "callname" : "",
                   "equipment" : {
-                     "backpack" : {
-                        "gametemplate" : "attachable_wear_jap_radio_device_engineer_squad_item",
-                        "slot" : "backpack"
-                     },
                      "belt_1" : {
                         "gametemplate" : "attachable_wear_jap_wire_cutters_engineer_squad_item",
                         "slot" : "belt_1"
@@ -47577,9 +47566,17 @@
                         "gametemplate" : "attachable_wear_hands_01_ussr_summer_item",
                         "slot" : "gloves"
                      },
+                     "hair" : {
+                        "gametemplate" : "hair_02_ger_summer_item",
+                        "slot" : "hair"
+                     },
                      "pants" : {
                         "gametemplate" : "attachable_wear_jap_type98_trousers_w_boots_medic_squad_item",
                         "slot" : "pants"
+                     },
+                     "radio" : {
+                        "gametemplate" : "type_94_6_radio_gun",
+                        "slot" : "radio"
                      },
                      "side_belt_r" : {
                         "gametemplate" : "attachable_wear_jap_type14_nambu_holster_t98_tunic_item",
@@ -47596,7 +47593,7 @@
                   },
                   "exp" : 0,
                   "gametemplate" : "jap_base_soldier",
-                  "guid" : "axis_pacific_soldier_radioman_12625602",
+                  "guid" : "axis_pacific_soldier_radioman_14002342",
                   "heroTpl" : "",
                   "human_weap__weapInfo" : [
                      {
@@ -47657,12 +47654,12 @@
                   ],
                   "isPremium" : false,
                   "level" : 1,
-                  "maxLevel" : 5,
-                  "name" : "Akira",
+                  "maxLevel" : 4,
+                  "name" : "Nobuyuki",
                   "perkPoints" : {
-                     "speed" : 14,
-                     "vitality" : 9,
-                     "weapon" : 8
+                     "speed" : 11,
+                     "vitality" : 6,
+                     "weapon" : 6
                   },
                   "perks" : [
                      {
@@ -47678,8 +47675,8 @@
                   "perksCount" : 1,
                   "sClass" : "radioman",
                   "sKind" : "radioman",
-                  "surname" : "Ueda",
-                  "tier" : 4,
+                  "surname" : "Kobayashi",
+                  "tier" : 3,
                   "weaponPreset" : ""
                },
                {
@@ -48524,7 +48521,7 @@
                   "human_weap__weapInfo" : [
                      {
                         "gunSlots" : {
-                           "bayonet" : "type_30_bayonet_item"
+                           "scope" : "scope_arisaka_type_97_item"
                         },
                         "numReserveAmmo" : 10,
                         "reserveAmmoTemplate" : "arisaka_magazine"
@@ -48564,7 +48561,7 @@
                   "human_weap__weapTemplates" : {
                      "grenade" : "grenade_thrower",
                      "melee" : "jap_knife_weapon",
-                     "primary" : "arisaka_type_38_carbine_gun",
+                     "primary" : "arisaka_type_97_gun",
                      "secondary" : "",
                      "tertiary" : ""
                   },
@@ -48842,8 +48839,9 @@
                   ],
                   "human_weap__weapInitialComponents" : [
                      {
+                        "gun__kineticDamageMult" : 15.0,
                         "gun__shotFreq" : 15.0,
-                        "gun_spread__maxDeltaAngle" : -15.0
+                        "gun_spread__maxDeltaAngle" : -35.0
                      },
                      {},
                      {},
@@ -50342,11 +50340,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -50377,6 +50370,11 @@
          },
          {
             "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
+         },
+         {
+            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_battlepass_50_battle_12_13991369"
          }
@@ -50393,7 +50391,7 @@
          "tanker_premium_2_flametrooper" : 1.0
       },
       "country" : "ussr",
-      "curSquadId" : "allies_stalingrad_radioman_1",
+      "curSquadId" : "allies_stalingrad_prem_tank_2",
       "decorators" : {
          "portrait" : "tunisia_allies_event_marathon_summer_2022"
       },
@@ -50443,23 +50441,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -58136,11 +58134,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_xboxScarletCompensation_50_days_5_13991824"
          },
@@ -58171,6 +58164,11 @@
          },
          {
             "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
+         },
+         {
+            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "booster_global_battlepass_50_battle_12_13991369"
          }
@@ -58186,7 +58184,7 @@
          "tanker_premium_2_flametrooper" : 1.0
       },
       "country" : "germany",
-      "curSquadId" : "axis_stalingrad_mgun_1",
+      "curSquadId" : "axis_stalingrad_prem_tank_1",
       "decorators" : {
          "portrait" : "tunisia_allies_event_marathon_summer_2022"
       },
@@ -58236,23 +58234,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -65164,13 +65162,6 @@
             "artilleryTypeUnlocks" : [],
             "battleExpBonus" : 1.0,
             "curVehicle" : {
-               "decors" : [
-                  {
-                     "details" : "0:0.69,-0.087,-0.719?0.722,,0.692?0.06,0.996,-0.063?0.605,0.042,1.768;root",
-                     "id" : "teddy_bear_white",
-                     "slotIdx" : 0
-                  }
-               ],
                "gametemplate" : "germ_pzkpfw_ii_flamm",
                "guid" : "germ_pzkpfw_ii_flamm_10289657"
             },
@@ -66166,11 +66157,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "tunisia_OBT_boost_13991808"
          },
@@ -66213,6 +66199,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -66289,23 +66280,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
@@ -70850,11 +70841,6 @@
       "boosters" : [
          {
             "bType" : "global",
-            "expMul" : 1.0,
-            "guid" : "booster_global_every_day_award_100_battle_1_13994076"
-         },
-         {
-            "bType" : "global",
             "expMul" : 0.50,
             "guid" : "tunisia_OBT_boost_13991808"
          },
@@ -70897,6 +70883,11 @@
             "bType" : "global",
             "expMul" : 0.1000000014901161,
             "guid" : "booster_global_10_13991815"
+         },
+         {
+            "bType" : "global",
+            "expMul" : 1.0,
+            "guid" : "booster_global_every_day_award_100_battle_2_14002972"
          },
          {
             "bType" : "global",
@@ -70971,23 +70962,23 @@
                "guid" : "progress_gift_normandy_weapon_order_silver"
             },
             "progress_gift_pacific_soldier_order" : {
-               "cycle" : 6667,
+               "cycle" : 6787,
                "exp" : 498,
                "guid" : "progress_gift_pacific_soldier_order"
             },
             "progress_gift_pacific_soldier_order_silver" : {
-               "cycle" : 400,
-               "exp" : 24998,
+               "cycle" : 407,
+               "exp" : 34998,
                "guid" : "progress_gift_pacific_soldier_order_silver"
             },
             "progress_gift_pacific_weapon_order" : {
-               "cycle" : 3333,
+               "cycle" : 3393,
                "exp" : 4998,
                "guid" : "progress_gift_pacific_weapon_order"
             },
             "progress_gift_pacific_weapon_order_silver" : {
-               "cycle" : 800,
-               "exp" : 12498,
+               "cycle" : 814,
+               "exp" : 22498,
                "guid" : "progress_gift_pacific_weapon_order_silver"
             },
             "progress_gift_stalingrad_soldier_order" : {
